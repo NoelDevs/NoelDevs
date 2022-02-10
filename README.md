@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @NoelDevs
 - 👀 I’m interested in Programming games especially a game like antimatter dimensions
 - 🌱 I’m currently learning HTML, Js and Python, Hehe i started with Roblox studio
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Noel#8731 on Discord
